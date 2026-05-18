@@ -1,4 +1,4 @@
-# Vishnu's Walmart-Sales-Dashboard.
+# Nithin's Walmart-Sales-Dashboard.
 
 ## Problem Statement
 
